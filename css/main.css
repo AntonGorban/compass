@@ -227,8 +227,8 @@ h1 {
 .move__ask:before {
 	content:'\f0d7';
 	display: block;
-	font-family: FontAwesome;
-  	font-weight: 400;
+	font-family: "Font Awesome 5 Pro";
+  	font-weight: 900;
 	position: absolute;
 	line-height: 32px;
 	height: 32px;
@@ -245,8 +245,8 @@ h1 {
 .move__ask:after {
 	content:'\f0d7';
 	display: block;
-	font-family: FontAwesome;
-  	font-weight: 400;
+	font-family: "Font Awesome 5 Pro";
+  	font-weight: 900;
 	position: absolute;
 	line-height: 32px;
 	height: 32px;
@@ -366,7 +366,7 @@ h1 {
 .property__dream:last-child:after {
 	content: '\f1cd';
 	display: block;
-	font-family: FontAwesome;
+	font-family: "Font Awesome 5 Pro";
 	font-size: 26px;
 	width: 60px;
 	height: 60px;
