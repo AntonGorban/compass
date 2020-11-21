@@ -1,0 +1,158 @@
+body {
+	color: #000;
+}
+
+/* Header */
+
+h1 {
+	font-size: 51px;
+	letter-spacing: 0.2em;
+}
+
+.header__heading {
+	margin-top: 75px;
+	margin-bottom: 55px;
+}
+
+.anchor {
+	margin-bottom: 115px;
+}
+
+/* About */
+
+.about-wrap {
+	background: #f7f7f7;
+}
+
+.about {
+	margin-top: -80px;
+	background: #fff;
+}
+
+.about__title {
+	text-align: center;
+	font-size: 18px;
+	font-weight: 100;
+	margin: 50px 30px;
+}
+
+.about__title_bold {
+	font-weight: 900;
+}
+
+.about__call {
+	display: flex;
+	justify-content: center;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+.call__left {
+	font-size: 15px;
+	letter-spacing: 0.08em;
+	font-weight: 900;
+	margin-right: 35px;
+}
+
+.call_left_blue {
+	color: #23aae2;
+	letter-spacing: 0.1em;
+	font-size: 39px;
+	text-height: 28px;
+}
+
+.call__center {
+	margin-right: 35px;
+	align-self: center;
+	font-size: 19px;
+	font-weight: 100;
+	color: #bdbdbd;
+	letter-spacing: 0.54em;
+}
+
+.call__right {
+	font-weight: 900;
+	font-size: 30px;
+	letter-spacing: 0.12em;
+}
+
+.call_right_blue {
+	color: #23aae2;
+	letter-spacing: 0.1em;
+}
+
+.ask-wrap {
+	background-color: #fff;
+	padding-top: 60px;
+	padding-bottom: 65px;
+}
+
+.about__ask {
+	background: #23aae2;
+	line-height: 75px;
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: 900;
+	font-size: 23px;
+	letter-spacing: 0.12em;
+	color: #fff;
+}
+
+/* Partners */
+
+.partners {
+	background: #fff;
+	margin-bottom: 79px;
+	padding-bottom: 75px;
+}
+
+.partners__title {
+	font-size: 29px;
+	font-weight: 900;
+	letter-spacing: 0.1em;
+	margin-bottom: 50px;
+}
+
+ .partners__card {
+ 	background: #f4f4f4;
+ 	text-align: center;
+ 	padding-bottom: 35px;
+ 	box-shadow:  2px 2px 4px 0px rgba(0,0,0,0.33);
+ 	height: 100%;
+ }
+
+ .partners-card__img {
+	width: 134px;
+	height: 134px;
+	margin-top: 37px;
+	margin-bottom: 30px;
+ }
+
+ .partners-card__title {
+ 	font-size: 21px;
+ 	font-weight: 900;
+ 	letter-spacing: 0.08em;
+ 	margin-bottom: 40px;
+ 	position: relative;
+ }
+
+ .partners-card__title:after {
+ 	display: block;
+ 	content: "";
+ 	width: 40px;
+ 	height: 1px;
+ 	background: #c6c6c6;
+ 	position: absolute;
+ 	bottom: -18px;
+ 	left: 50%;
+ 	margin-left: -20px
+ }
+
+ .partners-card__text {
+ 	font-size: 16px;
+ 	text-align: justify;
+ 	letter-spacing: 0.02em;
+ 	line-height: 23px;
+ 	font-weight: 100;
+ 	margin: 0px 30px;
+ }
